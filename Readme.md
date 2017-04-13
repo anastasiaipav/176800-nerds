@@ -1,7 +1,7 @@
 ﻿# Личный проект «Нёрдс»
 
 * Студент: [Анастасия Павлуцкая](https://up.htmlacademy.ru/htmlcss/17/user/176800).
-* Наставник: [Виктория Коваленко] (https://up.htmlacademy.ru/htmlcss/17/user/42638).
+* Наставник: [Виктория Коваленко](https://up.htmlacademy.ru/htmlcss/17/user/42638).
 
 ---
 
